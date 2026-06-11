@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Study Web Dev",
+        "description": "freeCodeCamp modules",
+        "start": null,
+        "end": null,
+        "status": "New Task",
+        "todo_live": [
+            "Complete HTML layout module",
+            "Review CSS Grid rules"
+        ],
+        "todo_original": [
+            "Complete HTML layout module",
+            "Review CSS Grid rules"
+        ]
+    }
+]
